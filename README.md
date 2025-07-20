@@ -1,29 +1,33 @@
-# EPUB Reader
+# EPUB Reader v2.0
 
-A modern, feature-rich EPUB reader application for Windows built with Python and tkinter.
+A beautiful and immersive EPUB reader application for Windows built with Python and tkinter, featuring a realistic two-page book layout.
 
 ## Features
 
 - 📖 **EPUB File Support**: Open and read EPUB files with full text extraction
-- 📚 **Chapter Navigation**: Easy navigation between chapters with sidebar and keyboard shortcuts
+- 📚 **Two-Page Book Layout**: Realistic book interface with left and right pages
 - 🎨 **Customizable Reading Experience**: 
   - Adjustable font size and family
   - Dark/Light mode toggle
   - Custom background and text colors
   - Preset color themes (Cream, Sepia, Light Blue, etc.)
-  - Comfortable reading layout
+  - Book-like cream background by default
 - ⌨️ **Keyboard Shortcuts**: Quick access to common functions
 - 📋 **Table of Contents**: Dedicated TOC window for easy chapter selection
-- 📱 **Responsive Design**: Resizable window with minimum size constraints
-- 🎯 **Modern UI**: Clean, intuitive interface with proper theming
+- 🖱️ **Interactive Context Toolbar**: Text selection tools with sharing options
+- 📊 **Progress Tracking**: Real-time reading progress indicator
+- 🎯 **Immersive Design**: Dark background with realistic book pages
 
 ## Screenshots
 
-The application features a clean, modern interface with:
-- Toolbar with quick access buttons
-- Sidebar showing book information and chapter list
-- Main reading area with customizable text display
-- Status bar with current chapter information
+The application features a beautiful, immersive book-like interface with:
+- Dark background simulating a reading desk
+- Two realistic book pages (left and right)
+- Author and chapter titles on the left page
+- Content split between pages for natural reading flow
+- Progress indicator showing current location
+- Interactive context toolbar for text selection
+- Sidebar with book information and chapter navigation
 
 ## Installation
 
