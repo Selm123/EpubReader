@@ -1,0 +1,5 @@
+ebooklib
+Pillow
+requests
+beautifulsoup4
+lxml 
